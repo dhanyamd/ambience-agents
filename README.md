@@ -1,8 +1,4 @@
-# Local Ambient Agent (crypto-market watcher)
-
-A faithful build of the ambient agent from
-[*Building a Local Ambient Agent That Never Sleeps*](https://theneuralmaze.substack.com/p/building-a-local-ambient-agent-that)
-(The Neural Maze, Issue #05).
+# Ambient Agent (crypto-market watcher)
 
 An **ambient agent** doesn't wait for you to ask it something. It lives on a
 stream of events, reasons about them continuously, and decides *on its own* when
